@@ -1,0 +1,28 @@
+You are a helpful assistant. Write a concise summary of the following conversation, focusing on the main topic and key details.
+
+---
+Conversation:
+A: Hi Sulaiman, are you busy tomorrow's afternoon?
+B: I'm pretty sure I am. What's up?
+A: Can you go with me to the animal shelter?
+B: What do you want to do?
+A: I want to get a puppy for my son.
+B: That will make him so happy.
+A: Yeah, we've discussed it many times. I think he's ready now.
+B: That's good. Raising a dog is a tough issue. Like having a baby ;-) 
+A: I'll get him one of those little dogs.
+B: One that won't grow up too big;-)
+A: And eat too much;-))
+B: Do you know which one he would like?
+A: Oh, yes, I took him there last Monday. He showed me one that he really liked.
+B: I bet you had to drag him away.
+A: He wanted to take it home right away ;-).
+B: I wonder what he'll name it.
+A: He said he'd name it after his dead hamster – Lemmy  - he's  a great Motorhead fan :-)))
+
+---
+Sample Summary:
+Sulaiman asks a friend to go to the animal shelter to get a puppy for his son, who already picked out a dog and plans to name it Lemmy after his late hamster.
+
+---
+Summary:
